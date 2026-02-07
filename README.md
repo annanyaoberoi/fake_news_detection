@@ -49,14 +49,10 @@ Can use any standard fake news dataset such as:
 - ISOT Fake News Dataset  
 
 ▶ How to Run the Project
-Option 1: Google Colab
+Google Colab
 - Upload `fake_news.ipynb` to Google Colab  
 - Upload the dataset file  
 - Run all cells  
-Option 2: Local System
-```bash
-pip install pandas numpy scikit-learn nltk
-python fake_news.py
 
 📊 Output
 The model predicts whether the given news is Fake or Real based on trained data.
